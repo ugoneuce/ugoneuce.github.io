@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugoneuce.github.io/BGQ/sitemap_index.txt
+Sitemap: https://ugoneuce.github.io/NCW/sitemap_index.txt
+Sitemap: https://ugoneuce.github.io/fhi/sitemap_index.txt
+Sitemap: https://ugoneuce.github.io/hNa/sitemap_index.txt
